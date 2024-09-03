@@ -26,7 +26,7 @@ RedM Bush Ymap PropInstance Tutorial :
 - Codex (https://discord.gg/codewalker)
 
 # Credits
-Kibook | (https://github.com/kibook) | Create Spooner
+Kibook | (https://github.com/kibook) | Create Spooner Original Script(https://github.com/kibook/spooner)
 
 LeonhardGottberg | (https://discord.gg/leonthecreator) | Create the rotation matrix ouput function
 
